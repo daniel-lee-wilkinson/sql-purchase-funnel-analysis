@@ -5,7 +5,7 @@ The goal is to demonstrate SQL proficiency in joining multiple tables, cleaning 
 
 ## Project Structure
 - `queries/` – SQL scripts for each analysis step
-- `summary/` – PDF/PPT with visual summary of results
+- `sql_purchase_funnel_analysis.pdf` - PDF with visual summary of results
 - `README.md` – this overview
 
 ## Analysis Steps
